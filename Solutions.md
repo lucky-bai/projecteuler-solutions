@@ -1,9 +1,8 @@
-Project Euler solutions collected by Luckytoilet and others.
-http://code.google.com/p/projecteuler-solutions/
-http://eulersolutions.fr.yuku.com/
-
-
 ```
+Project Euler solutions collected by Luckytoilet and others.
+https://github.com/luckytoilet/projecteuler-solutions
+https://www.tapatalk.com/groups/eulersolutionsfr/
+
 1. 233168
 2. 4613732
 3. 6857

@@ -1,12 +1,12 @@
 **Warning - This site contains spoilers. Please close this page immediately if you wish to solve the problems yourself.**
 
-* **Solutions**: http://github.com/luckytoilet/projecteuler-solutions
+* **Solutions**: https://github.com/luckytoilet/projecteuler-solutions/blob/master/Solutions.md
 * **Forums**: https://www.tapatalk.com/groups/eulersolutionsfr/
 * **Maintained by**: luckytoilet@gmail.com
 
 ### What is Project Euler?
 
-Project Euler (projecteuler.net)[http://projecteuler.net] is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
+Project Euler ([projecteuler.net](http://projecteuler.net)) is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
 
 ### What is projecteuler-solutions?
 
@@ -31,14 +31,8 @@ With the numerical answers, you have access to the official forums, in which you
 
 ### What about cheating?
 
-Needless to say, it is possible for one to mindlessly copy and paste solutions one by one into Project Euler to gain ranks. Obviously, this is quite pointless, as Project Euler ranks can gain you nothing in the real world. Furthermore, a cheater's account is likely to eventually get deleted. At one point, it was possible to automate this process with a script, but now that a CAPTCHA system has been introduced, the only way to do this would be by doing it manually, which is time-consuming as well.
+Of course, it is possible for one to mindlessly copy and paste solutions one by one into Project Euler to gain ranks. Obviously, this is quite pointless, as Project Euler ranks can gain you nothing in the real world. Your account is likely to get banned, and you are only cheating yourself of mathematical learning.
 
-### An answer is missing / incorrect!
+###### An answer is missing / incorrect!
 
-If you have the answer to a problem whose answer we do not yet have, or notice that an existing answer is incorrect, we would love to hear from you! Probably the easiest way to do this is to post in the [Projecteuler-solutions forums](https://www.tapatalk.com/groups/eulersolutionsfr/). Due to massive spamming, it is necessary to create an account to post, and new accounts may not start new topics (can only post to existing topics).
-
-All solutions here have been tested manually at least once, but mistakes are not impossible. The most likely cause for an incorrect answer would be a parameter change -- that is, a problem suddenly asks for n=120000 instead of n=100000. In this case, we will fix the answer as soon as we know about it.
-
-### How did I obtain these solutions?
-
-The earlier solutions (<250) are mostly obtained by careful Google searching. The later solutions are a combination of Googling and collaboration on the Projecteuler-solutions forums.
+If you have the answer to a problem whose answer we do not yet have, or notice that an existing answer is incorrect, we would love to hear from you! Either create an issue on this repository, or create a pull request. I will verify the answer and update the solutions as soon as possible.
