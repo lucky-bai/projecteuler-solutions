@@ -33,6 +33,6 @@ With the numerical answers, you have access to the official forums, in which you
 
 Of course, it is possible for one to mindlessly copy and paste solutions one by one into Project Euler to gain ranks. Obviously, this is quite pointless, as Project Euler ranks can gain you nothing in the real world. Your account is likely to get banned, and you are only cheating yourself of mathematical learning.
 
-###### An answer is missing / incorrect!
+### An answer is missing / incorrect!
 
 If you have the answer to a problem whose answer we do not yet have, or notice that an existing answer is incorrect, we would love to hear from you! Either create an issue on this repository, or create a pull request. I will verify the answer and update the solutions as soon as possible.
