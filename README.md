@@ -29,6 +29,8 @@ Projecteuler-solutions provides merely a list of answers -- that is, it does not
 
 With the numerical answers, you have access to the official forums, in which you can access dozens of solutions in numerous different programming languages, often using several very different approaches. By unlocking this valuable resource for you, Projecteuler-solutions hopes that you will be able to get more out of Project Euler.
 
+For a thorough exposition of solutions, I recommend [Project Nayuki](https://www.nayuki.io/page/project-euler-solutions), which solves about 200 of the problems using Java, Python, Mathematica, and Haskell.
+
 ### What about cheating?
 
 Of course, it is possible for one to mindlessly copy and paste solutions one by one into Project Euler to gain ranks. Obviously, this is quite pointless, as Project Euler ranks can gain you nothing in the real world. Your account is likely to get banned, and you are only cheating yourself of mathematical learning.
