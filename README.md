@@ -37,4 +37,4 @@ Of course, it is possible for one to mindlessly copy and paste solutions one by 
 
 ### An answer is missing / incorrect!
 
-If you have the answer to a problem whose answer we do not yet have, or notice that an existing answer is incorrect, we would love to hear from you! Either create an issue on this repository, or create a pull request. I will verify the answer and update the solutions as soon as possible.
+If you have the answer to a problem whose answer we do not yet have, or notice that an existing answer is incorrect, we would love to hear from you! Either create an issue on this repository, or email me at **luckytoilet@gmail.com**. I will verify the answer and update the solutions as soon as possible.
