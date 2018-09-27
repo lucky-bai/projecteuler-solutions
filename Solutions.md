@@ -638,5 +638,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 633. 1.0012e-10
 634. 4019680944
 635. 689294705
+636. 
+637. 49000634845039
 ```
 
