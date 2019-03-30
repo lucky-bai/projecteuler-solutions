@@ -663,5 +663,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 658. 958280177
 659. 238518915714422000
 660. 474766783
+661.
+662. 860873428
 ```
 
