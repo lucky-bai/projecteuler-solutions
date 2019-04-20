@@ -665,5 +665,8 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 660. 474766783
 661.
 662. 860873428
+663.
+664.
+665. 11541685709674
 ```
 
