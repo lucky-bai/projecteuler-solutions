@@ -670,5 +670,6 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 665. 11541685709674
 666.
 667. 1.5276527928
+668. 2811077773
 ```
 
