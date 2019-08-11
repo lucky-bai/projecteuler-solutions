@@ -676,7 +676,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 671.
 672.
 673.
-674.
+674. 416678753
 675. 416146418
 676.
 677.
