@@ -680,5 +680,6 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 675. 416146418
 676.
 677. 984183023
+678. 1986065
 ```
 
