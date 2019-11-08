@@ -685,7 +685,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 680.
 681.
 682.
-683.
+683. 2.38955315e11
 684. 922058210
 685.
 686. 193060223
