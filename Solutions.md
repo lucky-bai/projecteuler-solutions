@@ -689,5 +689,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 684. 922058210
 685.
 686. 193060223
+687.
+688. 110941813
 ```
 
