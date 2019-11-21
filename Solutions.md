@@ -691,5 +691,6 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 686. 193060223
 687.
 688. 110941813
+689. 0.56565454
 ```
 
