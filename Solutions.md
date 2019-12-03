@@ -692,5 +692,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 687.
 688. 110941813
 689. 0.56565454
+690. 
+691. 11570761
 ```
 
