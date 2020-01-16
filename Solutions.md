@@ -695,7 +695,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 690. 
 691. 11570761
 692. 842043391019219959
-693.
+693. 699161
 694.
 695.
 696.
