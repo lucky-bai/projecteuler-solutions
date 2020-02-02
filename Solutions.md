@@ -701,5 +701,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 696.
 697. 4343871.06
 698.
+699.
+700. 1517926517777556
 ```
 
