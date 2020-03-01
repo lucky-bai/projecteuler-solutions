@@ -703,5 +703,9 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 698.
 699.
 700. 1517926517777556
+701.
+702.
+703.
+704. 501985601490518144
 ```
 
