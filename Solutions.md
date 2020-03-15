@@ -708,5 +708,6 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 703.
 704. 501985601490518144
 705. 480440153
+706. 884837055
 ```
 
