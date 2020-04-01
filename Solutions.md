@@ -675,7 +675,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 670. 551055065
 671.
 672. 91627537
-673.
+673. 700325380
 674. 416678753
 675. 416146418
 676. 3562668074339584
@@ -710,5 +710,6 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 705. 480440153
 706. 884837055
 707. 652907799
+708.
 ```
 
