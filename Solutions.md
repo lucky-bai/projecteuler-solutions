@@ -712,5 +712,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 707. 652907799
 708. 28874142998632109
 709. 773479144
+710. 1275000
+711.
 ```
 
