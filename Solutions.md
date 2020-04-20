@@ -714,5 +714,6 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 709. 773479144
 710. 1275000
 711.
+712. 413876461
 ```
 
