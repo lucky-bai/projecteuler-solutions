@@ -718,5 +718,6 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 713. 788626351539895
 714. 2.452767775565e20
 715. 
+716. 238948623
 ```
 
