@@ -730,5 +730,6 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 725. 4598797036650685
 726.
 727. 3.64039141
+728. 709874991
 ```
 
