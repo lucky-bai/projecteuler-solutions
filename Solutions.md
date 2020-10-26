@@ -731,5 +731,8 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 726.
 727. 3.64039141
 728. 709874991
+729.
+730. 1315965924
+731.
 ```
 
