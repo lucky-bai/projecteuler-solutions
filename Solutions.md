@@ -733,6 +733,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 728. 709874991
 729.
 730. 1315965924
-731.
+731. 6086371427
+732.
 ```
 
