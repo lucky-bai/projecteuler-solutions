@@ -744,5 +744,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 739. 711399016
 740.
 741.
+742.
+743. 259158998
 ```
 
