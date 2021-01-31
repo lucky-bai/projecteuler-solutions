@@ -747,5 +747,6 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 742.
 743. 259158998
 744. 0.0001999600
+745. 94586478
 ```
 
