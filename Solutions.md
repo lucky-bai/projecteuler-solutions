@@ -752,5 +752,6 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 747. 681813395
 748. 276402862
 749. 13459471903176422
+750. 160640
 ```
 
