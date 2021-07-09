@@ -762,5 +762,6 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 757. 75737353
 758. 331196954
 759. 282771304
+760. 172747503
 ```
 
