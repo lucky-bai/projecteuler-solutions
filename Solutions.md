@@ -767,5 +767,10 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 762.
 763.
 764. 255228881
+765.
+766.
+767. 783976175
+768.
+769.
 ```
 
