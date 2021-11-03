@@ -768,7 +768,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 763.
 764. 255228881
 765.
-766.
+766. 2613742
 767. 783976175
 768.
 769.
