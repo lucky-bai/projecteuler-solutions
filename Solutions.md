@@ -773,5 +773,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 768.
 769.
 770. 127311223
+771.
+772. 83985379
 ```
 
