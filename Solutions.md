@@ -2,7 +2,6 @@
 Project Euler solutions collected by Luckytoilet and others.
 https://github.com/luckytoilet/projecteuler-solutions
 https://www.tapatalk.com/groups/eulersolutionsfr/
-
 1. 233168
 2. 4613732
 3. 6857
@@ -775,5 +774,8 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 770. 127311223
 771.
 772. 83985379
+773.
+774.
+775. 946791106
 ```
 
