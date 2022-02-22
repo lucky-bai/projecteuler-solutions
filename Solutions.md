@@ -786,5 +786,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 782.
 783.
 784. 5833303012576429231
+785.
+786. 45594532839912702
 ```
 
