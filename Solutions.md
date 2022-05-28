@@ -799,5 +799,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 795. 955892601606483
 796. 43.20649061
 797.
+798.
+799. 1096910149053902
 ```
 
