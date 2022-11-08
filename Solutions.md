@@ -815,5 +815,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 811. 327287526
 812.
 813.
+814.
+815. 54.12691621
 ```
 
