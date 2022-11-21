@@ -818,5 +818,6 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 814.
 815. 54.12691621
 816. 20.880613018
+817. 93158936107011
 ```
 
