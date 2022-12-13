@@ -820,5 +820,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 816. 20.880613018
 817. 93158936107011
 818.
+819.
+820. 44967734
 ```
 
