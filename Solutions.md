@@ -822,5 +822,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 818.
 819.
 820. 44967734
+821.
+822. 950591530
 ```
 
