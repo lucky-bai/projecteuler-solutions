@@ -828,5 +828,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 824.
 825.
 826. 0.3889014797
+827.
+828. 148693670
 ```
 
