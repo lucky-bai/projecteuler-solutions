@@ -832,6 +832,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 828. 148693670
 829.
 830.
-831.
+831. 5226432553
+832. 
 ```
 
