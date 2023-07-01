@@ -847,5 +847,9 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 843.
 844.
 845. 45009328011709400
+846.
+847.
+848.
+849. 936203459
 ```
 
