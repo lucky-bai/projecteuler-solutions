@@ -853,5 +853,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 849. 936203459
 850.
 851.
+852.
+853. 44511058204
 ```
 
