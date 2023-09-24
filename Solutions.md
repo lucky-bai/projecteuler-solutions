@@ -856,5 +856,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 852. 130.313496
 853. 44511058204
 854. 29894398
+855.
+856. 17.09661501
 ```
 
