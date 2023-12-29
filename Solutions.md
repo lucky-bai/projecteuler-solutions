@@ -868,6 +868,6 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 864.
 865. 761181918
 866.
-867.
+867. 870557257
 868. 3832914911887589
 
