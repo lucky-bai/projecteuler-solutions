@@ -871,4 +871,5 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 867. 870557257
 868. 3832914911887589
 869. 14.97696693
-
+870. 
+871. 2848790
