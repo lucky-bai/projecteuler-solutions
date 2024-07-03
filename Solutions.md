@@ -895,3 +895,6 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 891.
 892. 469137427
 893. 26688208
+894.
+895.
+896. 274229635640
