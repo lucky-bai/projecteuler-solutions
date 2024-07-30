@@ -898,3 +898,5 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 894.
 895.
 896. 274229635640
+897.
+898. 0.9861343531
