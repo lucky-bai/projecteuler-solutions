@@ -907,3 +907,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 903. 128553191
 904.
 905. 70228218
+906.
+907. 196808901
+908.
+909.
