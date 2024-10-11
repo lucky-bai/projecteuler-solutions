@@ -911,3 +911,5 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 907. 196808901
 908.
 909.
+910.
+911. 5679.934966
