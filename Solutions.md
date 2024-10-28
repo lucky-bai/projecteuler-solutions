@@ -913,3 +913,6 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 909.
 910.
 911. 5679.934966
+912. 
+913. 
+914. 414213562371805310
