@@ -926,3 +926,5 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 922.
 923.
 924. 811141860
+925.
+926. 40410219
