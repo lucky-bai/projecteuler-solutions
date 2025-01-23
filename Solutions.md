@@ -928,3 +928,5 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 924. 811141860
 925. 400034379
 926. 40410219
+927.
+928. 81108001093
