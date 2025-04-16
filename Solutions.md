@@ -940,3 +940,5 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 936.
 937.
 938. 0.2928967987
+939.
+940. 969134784
