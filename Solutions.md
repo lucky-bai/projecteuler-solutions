@@ -942,3 +942,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 938. 0.2928967987
 939.
 940. 969134784
+941.
+942.
+943.
+944. 1228599511
