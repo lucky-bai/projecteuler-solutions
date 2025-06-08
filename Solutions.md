@@ -946,3 +946,6 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 942.
 943.
 944. 1228599511
+945.
+946.
+947. 213731313
