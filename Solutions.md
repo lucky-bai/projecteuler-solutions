@@ -954,3 +954,5 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 950. 
 951. 495568995495726
 952. 794394453
+953. 176907658
+954. 736463823
