@@ -943,7 +943,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 939. 246776732
 940. 969134784
 941. 1068765750
-942.
+942. 557539756
 943.
 944. 1228599511
 945. 83357132
@@ -958,3 +958,4 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 954. 736463823
 955. 6795261671274
 956. 882086212
+
