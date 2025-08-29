@@ -1,6 +1,6 @@
 **Warning - This site contains spoilers. Please close this page immediately if you wish to solve the problems yourself.**
 
-* **Solutions**: https://github.com/luckytoilet/projecteuler-solutions/blob/master/Solutions.md
+* **Solutions**: https://github.com/lucky-bai/projecteuler-solutions/blob/master/Solutions.md
 * **Forums**: https://www.tapatalk.com/groups/eulersolutionsfr/
 * **Maintained by**: luckytoilet@gmail.com
 
@@ -34,6 +34,8 @@ For a thorough exposition of solutions, I recommend [Project Nayuki](https://www
 ### What about cheating?
 
 Of course, it is possible for one to mindlessly copy and paste solutions one by one into Project Euler to gain ranks. Obviously, this is quite pointless, as Project Euler ranks can gain you nothing in the real world. Your account is likely to get banned, and you are only cheating yourself of mathematical learning.
+
+To help maintain the integrity of the leaderboard, new answers will be published only after at least 50 solvers have submitted solutions.
 
 ### An answer is missing / incorrect!
 
