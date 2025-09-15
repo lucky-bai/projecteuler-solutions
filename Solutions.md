@@ -1,6 +1,6 @@
 ```
-Project Euler solutions collected by Luckytoilet and others.
-https://github.com/luckytoilet/projecteuler-solutions
+Project Euler solutions.
+https://github.com/lucky-bai/projecteuler-solutions
 https://www.tapatalk.com/groups/eulersolutionsfr/
 1. 233168
 2. 4613732
@@ -959,5 +959,8 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 955. 6795261671274
 956. 882086212
 957. 234897386493229284
+958. 367554579311
+959. 0.857162085
+960. 243559751
 
 
