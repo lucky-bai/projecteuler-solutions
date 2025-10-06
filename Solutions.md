@@ -963,3 +963,5 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 959. 0.857162085
 960. 243559751
 961. 166666666689036288
+962. 7259046
+
