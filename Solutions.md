@@ -972,6 +972,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 968. 885362394
 969. 412543690
 970. 44754029
+971. 33626723890930
 
 
 
