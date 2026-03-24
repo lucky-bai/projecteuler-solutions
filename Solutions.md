@@ -988,6 +988,7 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 984. 885722296
 985. 1734334
 986.
+987. 11044580082199135512
 
 
 
