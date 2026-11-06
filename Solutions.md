@@ -1017,3 +1017,5 @@ https://www.tapatalk.com/groups/eulersolutionsfr/
 1013. 6991971159155793
 1014. CFGJLMVW
 1015.
+1016. 614306215
+1017. 548586956071686089
